@@ -1,0 +1,24 @@
+﻿---
+layout:     post
+title:      "Hello 2017"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-02-06 12:00:00
+author:     "ZWY"
+header-img: "img/post-bg-rwd.jp"
+catalog: true
+tags:
+    - 测试
+---
+
+## HELLO WORLD
+
+> 测试
+
+## NOTHING GOLD CAN STAY
+
+测试文章可行性
+测试文章可行性
+![img](/img/post-bg-rwd.jpg)
+测试文章可行性
+[超链接百度](https://www.baidu.com/)
+测试文章可行性
