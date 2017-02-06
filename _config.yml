@@ -12,19 +12,18 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "It takes a great man <br> to be a good instener"
-sidebar-avatar: img/avatar-by.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/me.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     qiubaiying
+weibo_username:     三布弗
 zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+github_username:    zzzwy
+#facebook_username:  baiying.qiu.7
 #jianshu_username:   qiubaiying
-#twitter_username:   qiubaiying
-
+twitter_username:   zzzwy
 
 
 
